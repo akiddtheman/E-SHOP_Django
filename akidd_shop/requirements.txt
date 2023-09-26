@@ -3,4 +3,8 @@ backports.zoneinfo==0.2.1
 Django==4.0
 django-crispy-forms==1.13.0
 Pillow==9.0.0
+<<<<<<< HEAD
 sqlparse==0.4.2
+=======
+sqlparse==0.4.2
+>>>>>>> origin/main
